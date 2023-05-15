@@ -17,7 +17,6 @@
     "react-export",
     "react-excel-export"
   ],
-  "author": "Ricardo Díaz <rdcalle@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "file-saver": "1.3.8",
